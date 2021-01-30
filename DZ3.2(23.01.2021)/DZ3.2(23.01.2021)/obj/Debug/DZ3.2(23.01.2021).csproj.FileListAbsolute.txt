@@ -1,0 +1,6 @@
+D:\cs\alif\1\DZ3.2(23.01.2021)\DZ3.2(23.01.2021)\bin\Debug\DZ3.2(23.01.2021).exe.config
+D:\cs\alif\1\DZ3.2(23.01.2021)\DZ3.2(23.01.2021)\bin\Debug\DZ3.2(23.01.2021).exe
+D:\cs\alif\1\DZ3.2(23.01.2021)\DZ3.2(23.01.2021)\bin\Debug\DZ3.2(23.01.2021).pdb
+D:\cs\alif\1\DZ3.2(23.01.2021)\DZ3.2(23.01.2021)\obj\Debug\DZ3.2(23.01.2021).csprojResolveAssemblyReference.cache
+D:\cs\alif\1\DZ3.2(23.01.2021)\DZ3.2(23.01.2021)\obj\Debug\DZ3.2(23.01.2021).exe
+D:\cs\alif\1\DZ3.2(23.01.2021)\DZ3.2(23.01.2021)\obj\Debug\DZ3.2(23.01.2021).pdb
