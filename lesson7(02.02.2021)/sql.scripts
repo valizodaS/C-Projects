@@ -1,0 +1,14 @@
+create table MobilePhone(
+ID integer Primary key,
+Name Nvarchar(50),
+MadeIn nvarchar(50),
+MadeYear integer,
+LicenceMonth integer,
+Memory double,
+RAM double,
+New bit);
+
+insert into MobilePhone values(
+1, 'Samsung Galaxy S12', 'Korea', 2020, 36, 128.0, 3.5, 1);
+
+select * from MobilePhone;
