@@ -1,0 +1,6 @@
+c:\users\sami\documents\visual studio 2013\Projects\lesson8(04.02)\lesson8(04.02)\bin\Debug\lesson8(04.02).exe.config
+c:\users\sami\documents\visual studio 2013\Projects\lesson8(04.02)\lesson8(04.02)\bin\Debug\lesson8(04.02).exe
+c:\users\sami\documents\visual studio 2013\Projects\lesson8(04.02)\lesson8(04.02)\bin\Debug\lesson8(04.02).pdb
+c:\users\sami\documents\visual studio 2013\Projects\lesson8(04.02)\lesson8(04.02)\obj\Debug\lesson8(04.02).csprojResolveAssemblyReference.cache
+c:\users\sami\documents\visual studio 2013\Projects\lesson8(04.02)\lesson8(04.02)\obj\Debug\lesson8(04.02).exe
+c:\users\sami\documents\visual studio 2013\Projects\lesson8(04.02)\lesson8(04.02)\obj\Debug\lesson8(04.02).pdb
